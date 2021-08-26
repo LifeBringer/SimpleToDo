@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had an issue with AMD graphics, had to manually go into the command line and switch the renderer to software, then DX11 from OpenGL.
 
 ## License
 
